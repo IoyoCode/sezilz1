@@ -1,0 +1,6 @@
+name: TestPlugin
+version: '${project.version}'
+main: com.tuwtle.testplugin
+api-version: 1.18
+authors: [ tuwtle ]
+description: tuwtles bad mod
